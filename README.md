@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Igor Sokolov
+### Python Developer
 
 <!--
 **igare4eg/igare4eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
