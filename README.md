@@ -18,4 +18,4 @@
 - [LinkedIn](https://linkedin.com/in/igor-sokolov1994/)
 - [GitHub](https://github.com/igare4eg_)
 
-![Ваша GitHub статистика](https://github-readme-stats.vercel.app/api?username=<ваш_логин>&show_icons=true&theme=radical)
+![Ваша GitHub статистика](https://github-readme-stats.vercel.app/api?username=igare4eg&show_icons=true&theme=radical)
