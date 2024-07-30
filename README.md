@@ -5,18 +5,15 @@
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-<!--
-**igare4eg/igare4eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Фреймворки и библиотеки:**
+  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-Here are some ideas to get you started:
+- **Базы данных:**
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+ 
+  - ## 🔗 Социальные сети
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igare4eg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- [LinkedIn](https://linkedin.com/in/igor-sokolov1994/)
+- [GitHub](https://github.com/igare4eg_)
