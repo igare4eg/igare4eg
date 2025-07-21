@@ -13,9 +13,9 @@
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
  
-  - ## 🔗 Социальные сети
+- **🔗 Социальные сети:**
 
-- [LinkedIn](https://linkedin.com/in/igor-sokolov1994/)
-- [GitHub](https://github.com/igare4eg_)
+  - [LinkedIn](https://linkedin.com/in/igor-sokolov1994/)
+  - [GitHub](https://github.com/igare4eg_)
 
 ![Ваша GitHub статистика](https://github-readme-stats.vercel.app/api?username=igare4eg&show_icons=true&theme=radical)
